@@ -1,0 +1,102 @@
+.header {
+  background-color: #F3F4F8;
+  /* padding: 5px -20px; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(10, 9, 9, 0.1);
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  margin-left: 0; /* Move the logo further left */
+}
+
+.logo-img {
+  border-radius: 100%;
+  height: 20px; /* Reduced size */
+  width: 20px; /* Reduced size */
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav-list {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item {
+  margin: 0;
+}
+
+.nav-item .active {
+  color: #2323f4;
+}
+
+.account {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-right: -40px; /* Adjust this value to move the login icon further right */
+}
+
+.login-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.login-icon {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.menu-btn {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .nav {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    padding: 10px;
+  }
+
+  .nav.open {
+    display: flex;
+  }
+
+  .nav-list {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .menu-btn {
+    display: block;
+  }
+}
