@@ -105,7 +105,7 @@ export const HomeContent = () => {
     </div>
     <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
       <div className="hidden sm:mb-8 sm:flex sm:justify-center">
-        <div className="relative rounded-full px-3 py-1 text-sm/6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
+        <div className="relative rounded-full px-3 py-1 text-sm/6 text-black-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
           First 10 Student got free internship certificate.{" "}
           <a href="https://forms.gle/AMPGLbGyoTgiCdMd9" target="_blank" className="font-semibold text-indigo-600">
             <span className="absolute inset-0" aria-hidden="true"></span>Register now{""}
@@ -117,7 +117,7 @@ export const HomeContent = () => {
         <h1 className="text-5xl font-semibold tracking-tight text-balance text-gray-900 sm:text-7xl">
           SecureDev <br /><p>Learn , Build And Thrive</p>
         </h1>
-        <p className="mt-8 text-lg font-medium text-pretty text-gray-500 sm:text-xl/8">
+        <p className="mt-8 text-lg font-medium text-pretty text-black-500 sm:text-xl/8">
         A dynamic startup offering internships for beginners, 
         web and mobile app development, and custom software solutions for businesses.
         </p>
@@ -180,7 +180,7 @@ export const HomeContent = () => {
     </section>
 
     
-      <section>
+{/*       <section>
   <div className="bg-linear-gradient(120deg, #d6f7bd, #d8aaf7, #a6c4ed) py-24 sm:py-32">
     <div className="mx-auto max-w-7xl px-6 lg:px-8">
       <h2 className="text-center text-lg/8 font-semibold text-gray-900">The most hyped programming languages</h2>
@@ -223,7 +223,7 @@ export const HomeContent = () => {
       </div>
     </div>
   </div>
-</section>
+</section> */}
 <section>
   <div className="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
     <img
