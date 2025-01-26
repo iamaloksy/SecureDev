@@ -98,5 +98,6 @@
 
   .menu-btn {
     display: block;
+    margin-right: 10px;
   }
 }
