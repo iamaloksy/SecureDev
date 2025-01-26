@@ -180,50 +180,7 @@ export const HomeContent = () => {
     </section>
 
     
-{/*       <section>
-  <div className="bg-linear-gradient(120deg, #d6f7bd, #d8aaf7, #a6c4ed) py-24 sm:py-32">
-    <div className="mx-auto max-w-7xl px-6 lg:px-8">
-      <h2 className="text-center text-lg/8 font-semibold text-gray-900">The most hyped programming languages</h2>
-      <div className="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-5">
-        <img
-          className="col-span-2 max-h-12 w-full object-contain lg:col-span-1"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png"
-          alt="Python"
-          width="158"
-          height="48"
-        />
-        <img
-          className="col-span-2 max-h-12 w-full object-contain lg:col-span-1"
-          src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
-          alt="Javascript"
-          width="158"
-          height="48"
-        />
-        <img
-          className="col-span-2 max-h-12 w-full object-contain lg:col-span-1"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png"
-          alt="Golang"
-          width="158"
-          height="48"
-        />
-        <img
-          className="col-span-2 max-h-12 w-full object-contain sm:col-start-2 lg:col-span-1"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/300px-Swift_logo.svg.png"
-          alt="Swift"
-          width="158"
-          height="48"
-        />
-        <img
-          className="col-span-2 col-start-2 max-h-12 w-full object-contain sm:col-start-auto lg:col-span-1"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/182px-Rust_programming_language_black_logo.svg.png"
-          alt="Rust"
-          width="158"
-          height="48"
-        />
-      </div>
-    </div>
-  </div>
-</section> */}
+
 <section>
   <div className="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
     <img
