@@ -19,12 +19,12 @@ export const LinkData = [
   {
     id: 3,
     title: "Resources",
-    url: "/courses",
+    url: "/resources",
   },
   {
     id: 4,
     title: "Service",
-    url: "/instructor",
+    url: "/service",
   },
   {
     id: 5,
