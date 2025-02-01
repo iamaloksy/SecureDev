@@ -1,0 +1,13 @@
+.logo-page-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+  
+  .logo {
+    max-width: 200px;
+    height: auto;
+  }
+  
