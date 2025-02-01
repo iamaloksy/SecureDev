@@ -5,7 +5,7 @@ import { AiFillStar } from "react-icons/ai"
 import teacher from "../components/assets/images/Designer (1).png"
 import { HiOutlineArrowNarrowRight } from "react-icons/hi"
 
-export const Courses = () => {
+export const Resources = () => {
   return (
     <>
       <section className='courses bg-linear-gradient(120deg, #d6f7bd, #d8aaf7, #a6c4ed) py-16 '>
