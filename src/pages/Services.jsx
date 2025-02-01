@@ -9,7 +9,7 @@ import { HiOutlineArrowNarrowRight } from "react-icons/hi"
 
  // Ensure the correct import path
 
-export const Instructor = () => {
+export const Services = () => {
   return (
     <>
     <br />
@@ -55,7 +55,7 @@ export const Instructor = () => {
 
       <div className='w-4/5 m-auto'>
     
-    <div className='grid grid-cols-2 gap-8 md:grid-cols-1'>
+    <div className='grid grid-cols-3 gap-8 md:grid-cols-1'>
       {courses.map((item) => (
         <div key={item.id} className='box rounded-lg shadow-shadow1 bg-white'>
           <div className='images rounded-t-lg relative overflow-hidden h-40 w-ful'>
