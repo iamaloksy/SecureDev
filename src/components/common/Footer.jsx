@@ -18,47 +18,47 @@ export const Footer = () => {
 
           <li>
             <h4 className='text-black text-sm font-semibold mb-2'>Services</h4>
-            <NavLink to='instructor' className=' text-[14px] block mb-2'>
+            <NavLink to='service' className=' text-[14px] block mb-2'>
               UI design
             </NavLink>
-            <NavLink to='instructor' className=' text-[14px] block mb-2'>
+            <NavLink to='service' className=' text-[14px] block mb-2'>
               UX design
             </NavLink>
-            <NavLink to='instructor' className=' text-[14px] block mb-2'>
+            <NavLink to='service' className=' text-[14px] block mb-2'>
               Website development
             </NavLink>
-            <NavLink to='instructor' className=' text-[14px] block mb-2'>
+            <NavLink to='service' className=' text-[14px] block mb-2'>
              App development
             </NavLink>
-            <NavLink to='instructor' className=' text-[14px] block mb-2'>
+            <NavLink to='service' className=' text-[14px] block mb-2'>
              Creativity Solution
             </NavLink>
-            <NavLink to='instructor' className=' text-[14px] block mb-2'>
+            <NavLink to='service' className=' text-[14px] block mb-2'>
              Custom App Develop
             </NavLink>
           
           </li>
           <li>
             <h4 className='text-black text-sm font-semibold mb-2'>Resources</h4>
-            <NavLink to='courses' className=' text-[14px] block mb-2'>
+            <NavLink to='resources' className=' text-[14px] block mb-2'>
              Designing
             </NavLink>
-            <NavLink to='courses' className=' text-[14px] block mb-2'>
+            <NavLink to='resources' className=' text-[14px] block mb-2'>
               Web-Design
             </NavLink>
-            <NavLink to='courses' className=' text-[14px] block mb-2'>
+            <NavLink to='resources' className=' text-[14px] block mb-2'>
               Web-Develop
             </NavLink>
-            <NavLink to='courses' className=' text-[14px] block mb-2'>
+            <NavLink to='resources' className=' text-[14px] block mb-2'>
              App-Develop
             </NavLink>
-            <NavLink to='courses' className=' text-[14px] block mb-2'>
+            <NavLink to='resources' className=' text-[14px] block mb-2'>
               Python-programming
             </NavLink>
-            <NavLink to='courses' className=' text-[14px] block mb-2'>
+            <NavLink to='resources' className=' text-[14px] block mb-2'>
               Java-Programming
             </NavLink>
-            <NavLink to='courses' className=' text-[14px] block mb-2'>
+            <NavLink to='resources' className=' text-[14px] block mb-2'>
               Advance Javascript
             </NavLink>
           
