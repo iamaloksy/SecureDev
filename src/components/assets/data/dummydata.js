@@ -14,7 +14,7 @@ export const LinkData = [
   {
     id: 2,
     title: "Internship",
-    url: "/blog",
+    url: "/internship",
   },
   {
     id: 3,
