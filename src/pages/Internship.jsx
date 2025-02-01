@@ -3,7 +3,7 @@ import { courses } from "../components/assets/data/dummydata1";
 import { AiTwotoneCalendar } from "react-icons/ai";
 import teacher from "../components/assets/images/Designer (1).png";
 
-export const Blog = () => {
+export const INTERNSHIP = () => {
   return (
     <>
       <section className="courses py-16">
